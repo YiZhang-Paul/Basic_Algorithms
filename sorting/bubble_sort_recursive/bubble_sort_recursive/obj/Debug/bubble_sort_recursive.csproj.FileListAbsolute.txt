@@ -1,0 +1,5 @@
+D:\all_languages\algorithms\sorting\bubble_sort_recursive\bubble_sort_recursive\bubble_sort_recursive\bin\Debug\bubble_sort_recursive.exe.config
+D:\all_languages\algorithms\sorting\bubble_sort_recursive\bubble_sort_recursive\bubble_sort_recursive\bin\Debug\bubble_sort_recursive.exe
+D:\all_languages\algorithms\sorting\bubble_sort_recursive\bubble_sort_recursive\bubble_sort_recursive\bin\Debug\bubble_sort_recursive.pdb
+D:\all_languages\algorithms\sorting\bubble_sort_recursive\bubble_sort_recursive\bubble_sort_recursive\obj\Debug\bubble_sort_recursive.exe
+D:\all_languages\algorithms\sorting\bubble_sort_recursive\bubble_sort_recursive\bubble_sort_recursive\obj\Debug\bubble_sort_recursive.pdb
