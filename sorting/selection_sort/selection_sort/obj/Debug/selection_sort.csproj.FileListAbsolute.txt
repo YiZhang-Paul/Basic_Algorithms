@@ -1,1 +1,6 @@
 D:\all_languages\algorithms\sorting\selection_sort\selection_sort\bin\Debug\selection_sort.exe.config
+D:\all_languages\algorithms\sorting\selection_sort\selection_sort\bin\Debug\selection_sort.exe
+D:\all_languages\algorithms\sorting\selection_sort\selection_sort\bin\Debug\selection_sort.pdb
+D:\all_languages\algorithms\sorting\selection_sort\selection_sort\obj\Debug\selection_sort.csprojResolveAssemblyReference.cache
+D:\all_languages\algorithms\sorting\selection_sort\selection_sort\obj\Debug\selection_sort.exe
+D:\all_languages\algorithms\sorting\selection_sort\selection_sort\obj\Debug\selection_sort.pdb
