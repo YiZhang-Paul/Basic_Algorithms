@@ -1,0 +1,1 @@
+D:\all_languages\algorithms\sorting\merge_sort_recursive\merge_sort_recursive\bin\Debug\merge_sort_recursive.exe.config
