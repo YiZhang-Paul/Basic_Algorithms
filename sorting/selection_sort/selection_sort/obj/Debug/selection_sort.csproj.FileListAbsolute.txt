@@ -1,0 +1,1 @@
+D:\all_languages\algorithms\sorting\selection_sort\selection_sort\bin\Debug\selection_sort.exe.config
