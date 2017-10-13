@@ -1,0 +1,1 @@
+D:\all_languages\algorithms\sorting\selection_sort_recursive\selection_sort_recursive\bin\Debug\selection_sort_recursive.exe.config
