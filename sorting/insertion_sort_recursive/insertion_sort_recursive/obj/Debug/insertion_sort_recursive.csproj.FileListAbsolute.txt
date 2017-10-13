@@ -1,0 +1,1 @@
+D:\all_languages\algorithms\sorting\insertion_sort_recursive\insertion_sort_recursive\bin\Debug\insertion_sort_recursive.exe.config
