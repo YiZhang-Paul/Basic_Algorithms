@@ -1,1 +1,6 @@
 D:\all_languages\algorithms\sorting\insertion_sort\insertion_sort\bin\Debug\insertion_sort.exe.config
+D:\all_languages\algorithms\sorting\insertion_sort\insertion_sort\bin\Debug\insertion_sort.exe
+D:\all_languages\algorithms\sorting\insertion_sort\insertion_sort\bin\Debug\insertion_sort.pdb
+D:\all_languages\algorithms\sorting\insertion_sort\insertion_sort\obj\Debug\insertion_sort.csprojResolveAssemblyReference.cache
+D:\all_languages\algorithms\sorting\insertion_sort\insertion_sort\obj\Debug\insertion_sort.exe
+D:\all_languages\algorithms\sorting\insertion_sort\insertion_sort\obj\Debug\insertion_sort.pdb
