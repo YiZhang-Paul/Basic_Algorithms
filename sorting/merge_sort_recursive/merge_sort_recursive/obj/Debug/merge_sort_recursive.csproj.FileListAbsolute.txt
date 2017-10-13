@@ -1,1 +1,6 @@
 D:\all_languages\algorithms\sorting\merge_sort_recursive\merge_sort_recursive\bin\Debug\merge_sort_recursive.exe.config
+D:\all_languages\algorithms\sorting\merge_sort_recursive\merge_sort_recursive\bin\Debug\merge_sort_recursive.exe
+D:\all_languages\algorithms\sorting\merge_sort_recursive\merge_sort_recursive\bin\Debug\merge_sort_recursive.pdb
+D:\all_languages\algorithms\sorting\merge_sort_recursive\merge_sort_recursive\obj\Debug\merge_sort_recursive.csprojResolveAssemblyReference.cache
+D:\all_languages\algorithms\sorting\merge_sort_recursive\merge_sort_recursive\obj\Debug\merge_sort_recursive.exe
+D:\all_languages\algorithms\sorting\merge_sort_recursive\merge_sort_recursive\obj\Debug\merge_sort_recursive.pdb

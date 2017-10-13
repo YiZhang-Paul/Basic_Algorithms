@@ -9,7 +9,8 @@ namespace merge_sort_recursive {
         static void Main(string[] args) {
             int[] array = new int[] { 2, 14, 11, 16, 82, 4, 34, 51, 1, 4 };
             MergeSortRecursive sorter = new MergeSortRecursive();
-            Console.WriteLine(string.Join(", ", sorter.Sort(array)));
+            sorter.Sort(array, 0, array.Length - 1);
+            Console.WriteLine(string.Join(", ", array));
         }
     }
 }
