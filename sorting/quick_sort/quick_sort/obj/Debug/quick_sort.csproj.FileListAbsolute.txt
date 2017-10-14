@@ -1,0 +1,1 @@
+D:\all_languages\algorithms\sorting\quick_sort\quick_sort\bin\Debug\quick_sort.exe.config
