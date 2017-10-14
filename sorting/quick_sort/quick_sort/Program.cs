@@ -9,7 +9,7 @@ namespace quick_sort {
         static void Main(string[] args) {
             int[] array = new int[] { 2, 14, 11, 16, 82, 4, 34, 51, 1, 4 };
             QuickSort sorter = new QuickSort();
-            sorter.Sort(array);
+            sorter.Sort(array, 0, array.Length - 1);
             Console.WriteLine(string.Join(", ", array));
         }
     }

@@ -1,1 +1,6 @@
 D:\all_languages\algorithms\sorting\quick_sort\quick_sort\bin\Debug\quick_sort.exe.config
+D:\all_languages\algorithms\sorting\quick_sort\quick_sort\obj\Debug\quick_sort.csprojResolveAssemblyReference.cache
+D:\all_languages\algorithms\sorting\quick_sort\quick_sort\bin\Debug\quick_sort.exe
+D:\all_languages\algorithms\sorting\quick_sort\quick_sort\bin\Debug\quick_sort.pdb
+D:\all_languages\algorithms\sorting\quick_sort\quick_sort\obj\Debug\quick_sort.exe
+D:\all_languages\algorithms\sorting\quick_sort\quick_sort\obj\Debug\quick_sort.pdb
