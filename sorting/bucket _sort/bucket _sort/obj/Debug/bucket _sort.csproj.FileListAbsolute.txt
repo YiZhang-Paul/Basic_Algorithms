@@ -1,0 +1,1 @@
+D:\all_languages\algorithms\sorting\bucket _sort\bucket _sort\bin\Debug\bucket _sort.exe.config
