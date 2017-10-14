@@ -1,0 +1,6 @@
+D:\all_languages\algorithms\sorting\bogo_sort\bogo_sort\bin\Debug\bogo_sort.exe.config
+D:\all_languages\algorithms\sorting\bogo_sort\bogo_sort\bin\Debug\bogo_sort.exe
+D:\all_languages\algorithms\sorting\bogo_sort\bogo_sort\bin\Debug\bogo_sort.pdb
+D:\all_languages\algorithms\sorting\bogo_sort\bogo_sort\obj\Debug\bogo_sort.csprojResolveAssemblyReference.cache
+D:\all_languages\algorithms\sorting\bogo_sort\bogo_sort\obj\Debug\bogo_sort.exe
+D:\all_languages\algorithms\sorting\bogo_sort\bogo_sort\obj\Debug\bogo_sort.pdb
