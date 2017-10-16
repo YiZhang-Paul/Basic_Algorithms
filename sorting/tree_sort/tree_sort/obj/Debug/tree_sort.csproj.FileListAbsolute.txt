@@ -1,0 +1,1 @@
+D:\all_languages\algorithms\sorting\tree_sort\tree_sort\bin\Debug\tree_sort.exe.config
