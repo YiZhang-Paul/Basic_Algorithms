@@ -1,0 +1,1 @@
+D:\all_languages\algorithms\sorting\binary_insertion_sort\binary_insertion_sort\bin\Debug\binary_insertion_sort.exe.config
