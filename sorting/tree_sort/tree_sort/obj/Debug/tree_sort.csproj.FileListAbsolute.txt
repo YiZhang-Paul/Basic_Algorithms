@@ -1,1 +1,6 @@
 D:\all_languages\algorithms\sorting\tree_sort\tree_sort\bin\Debug\tree_sort.exe.config
+D:\all_languages\algorithms\sorting\tree_sort\tree_sort\bin\Debug\tree_sort.exe
+D:\all_languages\algorithms\sorting\tree_sort\tree_sort\bin\Debug\tree_sort.pdb
+D:\all_languages\algorithms\sorting\tree_sort\tree_sort\obj\Debug\tree_sort.csprojResolveAssemblyReference.cache
+D:\all_languages\algorithms\sorting\tree_sort\tree_sort\obj\Debug\tree_sort.exe
+D:\all_languages\algorithms\sorting\tree_sort\tree_sort\obj\Debug\tree_sort.pdb
