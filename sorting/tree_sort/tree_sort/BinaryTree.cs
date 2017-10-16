@@ -11,40 +11,37 @@ namespace tree_sort {
         public BinaryTree() { 
         }
         /*
-         * @param {int[]} [array] - input array for binary tree
+         * @param {int[]} [array] - input array for binary tree 
          */
         public BinaryTree(int[] array) {
 
-            Root = CreateTree(array);
+            CreateTree(array);
         }
         /*
          * populate binary tree
          * @param {int[]} [array] - input array for binary tree
-         *
-         * @return {Node} [root node of binary tree]
          */
-        public Node CreateTree(int[] array) {
+        public void CreateTree(int[] array) {
 
-            var root = new Node(array[0]);
+            Root = new Node(array[0]);
 
             foreach(int number in array.Skip(1)) {
-                root = AddNode(root, number);
-            }
 
-            return root;
+                Root = AddNode(Root, number);
+            }
         }
         /*
-         * add new node
-         * @param {Node} [root] - root node
+         * add new node to binary tree
+         * @param {Node} [root] - root node of binary tree
          * @param {int} [value] - value of new node
          * 
-         * @return {Node} [root node]
+         * @return {Node} [root node of binary tree]
          */
         public Node AddNode(Node root, int value) {
-
+            //traverse tree base on current value
             if(value < root.Value) {
 
-                root.Left = root.Left == null ? new Node(value) : AddNode(root.Left, value);
+                root.Left = root.Left == null ? new Node(value) : AddNode(root.Left, value); 
             } 
             else {
 

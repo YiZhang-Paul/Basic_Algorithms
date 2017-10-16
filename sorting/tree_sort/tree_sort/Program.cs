@@ -10,7 +10,8 @@ namespace tree_sort {
 
             int[] array = new int[] { 2, 14, 11, 16, 82, 4, 34, 51, 1, 4 };
             TreeSort sorter = new TreeSort();
-            Console.WriteLine(string.Join(", ", sorter.Sort(array)));
+            sorter.Sort(array);
+            Console.WriteLine(string.Join(", ", array));
         }
     }
 }
