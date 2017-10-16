@@ -1,1 +1,6 @@
 D:\all_languages\algorithms\sorting\binary_insertion_sort\binary_insertion_sort\bin\Debug\binary_insertion_sort.exe.config
+D:\all_languages\algorithms\sorting\binary_insertion_sort\binary_insertion_sort\bin\Debug\binary_insertion_sort.exe
+D:\all_languages\algorithms\sorting\binary_insertion_sort\binary_insertion_sort\bin\Debug\binary_insertion_sort.pdb
+D:\all_languages\algorithms\sorting\binary_insertion_sort\binary_insertion_sort\obj\Debug\binary_insertion_sort.csprojResolveAssemblyReference.cache
+D:\all_languages\algorithms\sorting\binary_insertion_sort\binary_insertion_sort\obj\Debug\binary_insertion_sort.exe
+D:\all_languages\algorithms\sorting\binary_insertion_sort\binary_insertion_sort\obj\Debug\binary_insertion_sort.pdb
