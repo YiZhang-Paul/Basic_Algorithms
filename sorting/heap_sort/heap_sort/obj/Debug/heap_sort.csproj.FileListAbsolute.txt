@@ -1,1 +1,6 @@
 D:\all_languages\algorithms\sorting\heap_sort\heap_sort\bin\Debug\heap_sort.exe.config
+D:\all_languages\algorithms\sorting\heap_sort\heap_sort\bin\Debug\heap_sort.exe
+D:\all_languages\algorithms\sorting\heap_sort\heap_sort\bin\Debug\heap_sort.pdb
+D:\all_languages\algorithms\sorting\heap_sort\heap_sort\obj\Debug\heap_sort.csprojResolveAssemblyReference.cache
+D:\all_languages\algorithms\sorting\heap_sort\heap_sort\obj\Debug\heap_sort.exe
+D:\all_languages\algorithms\sorting\heap_sort\heap_sort\obj\Debug\heap_sort.pdb
