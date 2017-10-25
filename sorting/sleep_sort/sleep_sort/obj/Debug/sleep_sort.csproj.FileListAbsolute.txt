@@ -1,0 +1,6 @@
+D:\all_languages\algorithms\sorting\sleep_sort\sleep_sort\bin\Debug\sleep_sort.exe.config
+D:\all_languages\algorithms\sorting\sleep_sort\sleep_sort\bin\Debug\sleep_sort.exe
+D:\all_languages\algorithms\sorting\sleep_sort\sleep_sort\bin\Debug\sleep_sort.pdb
+D:\all_languages\algorithms\sorting\sleep_sort\sleep_sort\obj\Debug\sleep_sort.csprojResolveAssemblyReference.cache
+D:\all_languages\algorithms\sorting\sleep_sort\sleep_sort\obj\Debug\sleep_sort.exe
+D:\all_languages\algorithms\sorting\sleep_sort\sleep_sort\obj\Debug\sleep_sort.pdb
